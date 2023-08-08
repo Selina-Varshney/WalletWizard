@@ -16,6 +16,8 @@ As a future goal we plan to integrate it with the website and are currently expl
 
 ![image](https://github.com/Selina-Varshney/WalletWizard/assets/99686864/25168b13-969a-48e7-a279-397b629654b7)
 
+Check out the ppt uploaded for more information on the project.
+
 
 
 
