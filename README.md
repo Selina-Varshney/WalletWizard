@@ -1,6 +1,21 @@
 # WalletWizard
- A javascript-based Personal Finance Tracker along with an integrated AI chatbot 
-to automate the cumbersome process of expense tracking and management. It also improvises 
-features like transaction management, goal management etc.
-![WhatsApp Image 2023-06-04 at 12 20 25](https://github.com/Shatakshi127/WalletWizard/assets/107629085/f3527b8c-ddca-4284-8467-c8f0764031cf)
-![WhatsApp Image 2023-06-04 at 12 21 46](https://github.com/Shatakshi127/WalletWizard/assets/107629085/6f67d2f5-d4eb-43ab-bddf-9d5df88dd97c)
+A javascript-based Personal Finance Tracker built by Team-Access Denied at Code Gladiators 2023, A github copilot hackathon sponsored by microsoft.
+<br>
+The platform's homepage is designed with a scroll view:
+<p align="center">
+<img width="500" alt="Screenshot 2023-08-08 140347" src="https://github.com/Selina-Varshney/WalletWizard/assets/99686864/81e364e7-8755-480f-b957-ac52ef327be0">
+</p>
+The platform segregates and displays finances in the form of a pie chart based on the entries the user adds as income or expense: 
+
+<img width="949" alt="Screenshot 2023-08-08 135854" src="https://github.com/Selina-Varshney/WalletWizard/assets/99686864/8f57b535-abf2-4f03-b287-31be191c6b2c">
+
+<img width="638" alt="Screenshot 2023-08-08 140224" src="https://github.com/Selina-Varshney/WalletWizard/assets/99686864/9a47b4bf-d0ee-4ec9-af38-0ae8214bc482">
+
+During this hackathon we explored the use of github copilot and kore ai platform, and tried to develop our very own chatbot "Wizzie" to make the platform more interactive.
+As a future goal we plan to integrate it with the website and are currently exploring the possibilities.
+
+![image](https://github.com/Selina-Varshney/WalletWizard/assets/99686864/25168b13-969a-48e7-a279-397b629654b7)
+
+
+
+
