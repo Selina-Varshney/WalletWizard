@@ -5,8 +5,8 @@ Deployed at: https://wallet-wizard-five.vercel.app/
 
 <br>
 The platform's homepage is designed with a scroll view:
-<br>
 <p align="center">
+  <br>
 <img width="500" alt="Screenshot 2023-08-08 140347" src="https://github.com/Selina-Varshney/WalletWizard/assets/99686864/81e364e7-8755-480f-b957-ac52ef327be0">
 </p>
 The platform segregates and displays finances in the form of a pie chart based on the entries the user adds as income or expense: 
