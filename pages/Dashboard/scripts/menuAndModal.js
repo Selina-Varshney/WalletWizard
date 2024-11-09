@@ -7,15 +7,27 @@ const MobileMenu = {
   },
 };
 
+// const Modal = {
+//   open() {
+//     document.getElementById("modalOverlay").classList.add("active");
+//   },
+//   close() {
+//     document.getElementById("modalOverlay").classList.remove("active");
+//     Form.clearFields();
+//   },
+// };
+
+
 const Modal = {
   open() {
     document.getElementById("modalOverlay").classList.add("active");
+    Form.resetIncomeOrExpense(); // Reset form selection state when opening
   },
   close() {
     document.getElementById("modalOverlay").classList.remove("active");
-    Form.clearFields();
   },
 };
+
 
 // Display date (November, 24)
 let today = new Date();
