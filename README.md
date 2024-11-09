@@ -2,6 +2,7 @@
 A javascript-based Personal Finance Tracker built by Team-Access Denied at Code Gladiators 2023, A github copilot hackathon sponsored by microsoft.
 
 Deployed at: https://wallet-wizard-five.vercel.app/
+
 <br>
 The platform's homepage is designed with a scroll view:
 <p align="center">
